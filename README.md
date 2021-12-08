@@ -1,4 +1,4 @@
-Projeto do Bloco II do Bootcamp de Java da Generation Brasil. 🔶
+Atividade do Bloco II do Bootcamp de Java da Generation Brasil. 🔶
 ------------------------
 
 Atividade Realizada em Spring para a realização de um backend de um e-commerce de farmácia, a "FarmaciaMedSP".
